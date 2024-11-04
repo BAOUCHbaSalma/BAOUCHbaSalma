@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Microservices**
 
-- 👯 I’m looking to collaborate on **Java,SprinBoot,Angular**
+- 👯 I’m looking to collaborate on **Java,SprinBoot,Angular,React,Jee,Spring**
 
 - 📫 How to reach me **baouch.salma0@gmail.com**
 
